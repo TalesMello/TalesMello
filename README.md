@@ -1,5 +1,5 @@
 
-<h1>Quem sou Eu:</h1>
+<h1>Quem sou Eu?</h1>
 
 <div>
   
@@ -12,9 +12,10 @@
   - ⚡ Fun fact: Eu gosto de cozinhar e de animes
 </div>
 
-# 
+#
+#
 
-<h1>Who am I?<h1>
+<h1>Who am I?</h1>
   
 <div>
   
