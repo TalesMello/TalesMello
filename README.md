@@ -8,7 +8,6 @@
   - 🔭 Atualmente não estou trabalhando
   - 🌱 Estou aprendendo JavaScript, Html e Css
   - 🗺️ SP/SC - Brasil
-  - ⚡ Fun fact: Eu gosto de cozinhar e de animes
 </div>
 
 #
@@ -23,5 +22,4 @@
   - 🔭 I’m not working now
   - 🌱 I’m currently learning JavaScript, Html and Css
   - 🗺️ SP/SC - Brazil
-  - ⚡ Fun fact: I like cooking, and animes
 </div>
